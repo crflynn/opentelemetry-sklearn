@@ -7,4 +7,4 @@ Run the example server using `make example`. This will train a machine learning 
 
 Send a request to the server using `make request`.
 
-.. image:: example.jpg
+.. image:: https://raw.githubusercontent.com/crflynn/opentelemetry-sklearn/master/example.png
